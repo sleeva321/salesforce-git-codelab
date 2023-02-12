@@ -39,6 +39,14 @@ public class SFDCStopTeamController {
             )
             );
             sfdcstopContributors.add(
+                new Contributor(
+                    'Siva Reddy Dornala',
+                    'https://avatars.githubusercontent.com/u/40803761?s=96&v=4',
+                    Date.newInstance(2023, 02, 12),
+                    'https://trailblazer.me/id/sleeva321'
+                )
+                );
+            sfdcstopContributors.add(
             new Contributor(
                 'Workshop-CodeLab',
                 'https://github.com/',
